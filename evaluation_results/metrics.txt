@@ -1,0 +1,2 @@
+Dice Score: 0.0233
+IoU Score: 0.0121
